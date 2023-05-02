@@ -3096,7 +3096,6 @@ transform: scale(1.2);
 
 
 
-/* test*/
 /* Paramètres connexion Borders top*/
 .accountBtn-3pgcgr .accountBtnInner-3ttD-i {
   border: 1px solid var(--border-color);
@@ -3116,36 +3115,41 @@ transform: scale(1.2);
 }
 
 /* PayPal */
-.accountBtn-3pgcgr .accountBtnInner-3ttD-i[style*="background-image: url(&quot;/assets/cd538a7ff4cdd66dc377863e809c33bb.svg&quot;)"] {
+.wrapper-1xW8FI [style*="background-image: url(&quot;/assets/cd538a7ff4cdd66dc377863e809c33bb.svg&quot;)"] .accountButtonInner-33vCDY {
   --border-color: #0079C1;
 }
 
 /* Reddit */
-.accountBtn-3pgcgr .accountBtnInner-3ttD-i[style*="background-image: url(&quot;/assets/f3224f560c8f5974355596a4f7e9ce19.svg&quot;)"] {
+.wrapper-1xW8FI [style*="background-image: url(&quot;/assets/f3224f560c8f5974355596a4f7e9ce19.svg&quot;)"] .accountButtonInner-33vCDY {
   --border-color: #FF4500;
 }
 
 /* TikTok */
-.accountBtn-3pgcgr .accountBtnInner-3ttD-i[style*="background-image: url(&quot;/assets/56af141a14749c045405b832cd1b3241.svg&quot;)"] {
+.wrapper-1xW8FI [style*="background-image: url(&quot;/assets/56af141a14749c045405b832cd1b3241.svg&quot;)"] .accountButtonInner-33vCDY {
   --border-color: #FF2D55;
 }
 
 /* eBay */
-.accountBtn-3pgcgr .accountBtnInner-3ttD-i[style*="background-image: url(&quot;/assets/2b138cd479a1b7e0854c0a5bcb5d3cb4.svg&quot;)"] {
+.wrapper-1xW8FI [style*="background-image: url(&quot;/assets/2b138cd479a1b7e0854c0a5bcb5d3cb4.svg&quot;)"] .accountButtonInner-33vCDY {
   --border-color: #E53238;
 }
 
 /* Crunchyroll */
-.accountBtn-3pgcgr .accountBtnInner-3ttD-i[style*="background-image: url(&quot;/assets/a197fd38c7ef04d3996f5afadaef2593.svg&quot;)"] {
+.wrapper-1xW8FI [style*="background-image: url(&quot;/assets/a197fd38c7ef04d3996f5afadaef2593.svg&quot;)"] .accountButtonInner-33vCDY {
   --border-color: #F47D31;
 }
 
 /* PlayStation Network */
-.accountBtn-3pgcgr .accountBtnInner-3ttD-i[style*="background-image: url(&quot;/assets/7bab4490382024b0c8c29b5378eeaf8f.svg&quot;)"] {
+.wrapper-1xW8FI [style*="background-image: url(&quot;/assets/7bab4490382024b0c8c29b5378eeaf8f.svg&quot;)"] .accountButtonInner-33vCDY {
   --border-color: #0070D1;
 }
 
 /* Xbox */
-.accountBtn-3pgcgr .accountBtnInner-3ttD-i[style*="background-image: url(&quot;/assets/1fa6585cbb8c0fe21188e26d19fc6609.svg&quot;)"] {
+.wrapper-1xW8FI [style*="background-image: url(&quot;/assets/1fa6585cbb8c0fe21188e26d19fc6609.svg&quot;)"] .accountButtonInner-33vCDY {
   --border-color: #5EC220;
+}
+
+/* Battle.net */
+.wrapper-1xW8FI [style*="background-image: url(&quot;/assets/37f15a06d062bdd0fc252d2b35d0b0bb.svg&quot;)"] .accountButtonInner-33vCDY {
+  --border-color: #0099;
 }
