@@ -3153,3 +3153,30 @@ transform: scale(1.2);
 .wrapper-1xW8FI [style*="background-image: url(&quot;/assets/37f15a06d062bdd0fc252d2b35d0b0bb.svg&quot;)"] .accountButtonInner-33vCDY {
   --border-color: #0099;
 }
+
+
+/* Paramètres connexion Borders top*/
+.accountButtonInner-33vCDY 
+{
+  border: 1px solid var(--border-color);
+  background-color: rgba(15, 15, 15, 0.4);
+  transition: transform .2s;
+}
+ 
+.body-_QAKrE
+{
+  background: var(--bg-transparency);
+}
+.accountButtonInner-33vCDY:hover
+{
+  border: 1px solid var(--border-color);
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.2); 
+}
+
+
+
+
+/* PayPal */
+.accountButtonInner-33vCDY[style*="background-image: url("][style*="/assets/cd538a7ff4cdd66dc377863e809c33bb.svg"] {--border-color: #0079C1;}
