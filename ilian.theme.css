@@ -2731,7 +2731,7 @@ text-shadow: black 0.1em 0.1em 0.2em;
     pointer-events: none;
     border-radius: 3px;
 }
- 
+ /* bordure connexion avec infos des comptes*/
 .connectionHeader-Ixbb1s {
   overflow: hidden;
   position: relative;
